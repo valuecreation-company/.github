@@ -1,2 +1,3 @@
-# .github
-ValueCreation Company is a company determined to create value
+# Value Creation Company
+
+![Logo](./logo.png)
